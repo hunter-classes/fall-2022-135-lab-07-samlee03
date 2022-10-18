@@ -3,9 +3,7 @@
 * Last name: Lee
 * First name: Sam
 * GitHub username: samlee03
-* Notes:
-
-
+* Notes: functions are written in format.cpp. To format bad program, make main file and use standard input redirection. "./main < bad-program.cpp"
   
 * General instructions:
 - Fill in your name and GitHub username on top.
