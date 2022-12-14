@@ -29,4 +29,4 @@ std::string addIndents(int amount){
   return str;
 }
 
-  
+// functions are easy to read and working perfectly
